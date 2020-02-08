@@ -3,11 +3,13 @@ RENCANA BELAJAR BAYU
 -Nilai A
  *REKAYASA PERANGKAT LUNAK
  *RISET OPERASI
-  ^Program Linier
-  ^Analisa Network
--Bekerja di perusahaan besar berbasis IT
- ^Google
+   ^Teori Antrian
+   ^Analisa Network
+-Bekerja di perusahaan besar berbasis IT 
 -Point terkumpul
+  ^Panitia
+  ^Pengabdian
+  ^Organisasi
 -Bisa bahasa PYTHON
 
 
