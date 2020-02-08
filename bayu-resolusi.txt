@@ -2,5 +2,5 @@ Bayu RESOLUSI
 -Konsisten untuk belajar terus sehabis kuliah
 -Membuat web untuk skripsi
 -Belajar bahasa pemograman PYTHON
--Membuat aplikasi dengan bahasa pemograman PYTHON
 -Kolaborasi dengan expert
+-Membuat vlog
