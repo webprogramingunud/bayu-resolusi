@@ -4,6 +4,7 @@ RENCANA BELAJAR BAYU
  *REKAYASA PERANGKAT LUNAK
  *RISET OPERASI
    ^Teori Antrian
+   ^Analisa Network
 -Bekerja di perusahaan besar berbasis IT 
 -Point terkumpul
   ^Panitia
